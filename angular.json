@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "i18n"
+    }
+  },
+  "defaultProject": "i18n",
+  "cli": {
+    "analytics": "76260697-3767-465f-a03d-1f3a10daac2c"
+  }
 }
